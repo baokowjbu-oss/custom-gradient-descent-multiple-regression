@@ -1,4 +1,4 @@
-# 📉 Custom Gradient Descent for Multiple Linear Regression
+# Custom Gradient Descent for Multiple Linear Regression
 
 An custom implementation of Batch Gradient for Multiple Linear Regression Descent using Python and NumPy. Running the custom algorithm predict human body fat percentage based on multiple body parts measurement and evaluate the custom gradient descent perfomance.
 
