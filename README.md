@@ -9,7 +9,7 @@ An custom implementation of Batch Gradient for Multiple Linear Regression Descen
 ## 💡 Key Feature
 
 - I built the batch gradient descent algorithm manually. This project help me to apply my understanding of matrix multiplication, cost function, derivative and gradient descent to implement a batch gradient descent for multiple linear regression, using fully vectorized matrix multiplication to speed up the algorithm. 
-- I use my own custom implemented batch gradient descent to run multiple linear regression on the body fat datasets, to predict a person body fat based on multiple body parts measurements. The model succesfully ran and achieve great result (results are in the Model Performance section).
+- I use my own custom implemented batch gradient descent to run multiple linear regression on the body fat dataset, to predict a person body fat based on multiple body parts measurements. The model succesfully ran and achieve great result (results are in the Model Performance section).
 - In my notebook i also use feature scaling to speed up the gradient descent and visualization to analyze the data and demonstrate how well the model run.
 
 ## 📊 Model Performance
