@@ -26,22 +26,21 @@ An custom implementation of Batch Gradient for Multiple Linear Regression Descen
 
 ![alt text](images/prediction_graph_3.png)
 
-- $R^2$ Score: 0.7463 (Explains ~75% of human body variance using a tape measure)
+- **$R^2$ Score**: 0.7463 (Explains ~75% of human body variance using a tape measure)
 
-- Mean Absolute Error (MAE): 3.45% (On average, predictions are within 3.5% of actual body fat)
+- **Mean Absolute Error (MAE)**: 3.45% (On average, predictions are within 3.5% of actual body fat)
 
-- Root Mean Squared Error (RMSE): 4.19%
+- **Root Mean Squared Error (RMSE)**: 4.19%
 
 ## 🛠️ Tech Stack
 
-- Python
+- **Python**
 
-- NumPy (Linear Algebra & Optimization)
+- **NumPy** 
 
-- Pyplot (Data Visualization)
+- **Pyplot** 
 
-- Pandas (Data Cleaning)
-
+- **Pandas** 
 
 ## Source
 
