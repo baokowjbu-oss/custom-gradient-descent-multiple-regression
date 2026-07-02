@@ -1,5 +1,7 @@
 📉 **Custom Gradient Descent for Multiple Linear Regression**
 
+---
+
 An custom implementation of Batch Gradient for Multiple Linear Regression Descent using Python and NumPy to predict human body fat percentage based on multiple body parts measurement.
 
 *👉 [Click here to view the Jupyter Notebook to see the custom algorithm predicting body fat](https://nbviewer.org/github/baokowjbu-oss/custom-gradient-descent-multiple-regression/blob/main/notebook/customBGD_bodyfat.ipynb)*
@@ -8,11 +10,15 @@ An custom implementation of Batch Gradient for Multiple Linear Regression Descen
 
 💡 **Key Feature**
 
+---
+
 - Instead of importing scikit-learn and calling .fit(), I built the batch gradient descent algorithm manually. This project help me to apply my understanding of matrix multiplication, cost function, derivative and gradient descent to implement a batch gradient descent for multiple linear regression, using fully vectorized matrix multiplication to speed up the algorithm. 
 - I use my own custom implemented batch gradient descent to run multiple linear regression on the body fat datasets, to predict a person body fat based on multiple body parts measurements. The model succesfully ran and achieve great result (results are in the Model Performance section).
 - In my notebook i also use feature scaling to speed up the gradient descent and visualization to analyze the data and demonstrate how well the model run.
 
 📊 **Model Performance**
+
+---
 
 - The custom gradient descent successfully ran and converged
 
@@ -34,6 +40,8 @@ An custom implementation of Batch Gradient for Multiple Linear Regression Descen
 
 🛠️ **Tech Stack**
 
+---
+
 - Python
 
 - NumPy (Linear Algebra & Optimization)
@@ -44,6 +52,8 @@ An custom implementation of Batch Gradient for Multiple Linear Regression Descen
 
 
 **Source**
+
+---
 
 The data were generously supplied by Dr. A. Garth Fisher who gave permission to freely distribute the data and use for non-commercial purposes.
 
@@ -62,6 +72,8 @@ Email address: rwjohnso@silver.sdsmt.edu
 Web address: http://silver.sdsmt.edu/~rwjohnso
 
 **References**
+
+---
 
 Bailey, Covert (1994). Smart Exercise: Burning Fat, Getting Fit, Houghton-Mifflin Co., Boston, pp. 179-186.
 
